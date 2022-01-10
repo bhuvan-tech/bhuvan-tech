@@ -42,6 +42,7 @@
 </details>
 
 <details>
+  <br />
   <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="Bhuvan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-tech" />
