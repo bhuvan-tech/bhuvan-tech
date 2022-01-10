@@ -40,9 +40,9 @@
   <img align="left" alt="Bhuvan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bhuvan-tech&show_icons=true&hide_border=true" />
 
 </details>
-
+<br />
 <details>
-  <br />
+  
   <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="Bhuvan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-tech" />
