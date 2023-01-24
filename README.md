@@ -1,11 +1,7 @@
 ### Hello World 👋
 
-### I'm Bhuvan Y E and I'm obsessed with Blockchain Technology 
-- 🔭 I’m currently working with The Tann Mann Gaadi
-- 🌱 I’m currently learning Blockchain Technolgy
-- 👯 I’m looking to collaborate with people who can Build Dapps on Ethereum network
-- 🤔 I’m looking for help with Javascript
-- 📫 How to reach me: 
+### I'm Bhuvan Y E 
+
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Declare Variables not Wars!!
 
@@ -20,12 +16,9 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][youtube]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][youtube]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][youtube]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][youtube]
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
+[<img align="left" alt="Express.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][youtube]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][youtube]
-[<img align="left" alt="Php" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fphp-logo-clipart.jpg&f=1&nofb=1" />][youtube]
-[<img align="left" alt="Solidity" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbeaugunderson.gallerycdn.vsassets.io%2Fextensions%2Fbeaugunderson%2Fsolidity-extended%2F3.0.2%2F1507572010216%2FMicrosoft.VisualStudio.Services.Icons.Default&f=1&nofb=1" />][youtube]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][youtube]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][youtube]
